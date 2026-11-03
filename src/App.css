@@ -54,11 +54,6 @@
   margin: 0 0 4px;
 }
 
-.muted {
-  font-size: 13px;
-  margin: 0;
-}
-
 .tx {
   list-style: none;
   padding: 0;
@@ -95,14 +90,6 @@
     align-items: center;
     gap: 8px;
   }
-}
-
-.field {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  flex-wrap: wrap;
-  gap: 8px;
 }
 
 /* FIX 7: Blur and "Session Paused" styles. Uncomment this block.
