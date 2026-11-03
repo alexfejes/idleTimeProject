@@ -92,7 +92,7 @@
   }
 }
 
-/* FIX 7: Blur and "Session Paused" styles. Uncomment this block.
+/* FIX 7: Blur and "Session Paused" styles. */
 
 .dashboard.is-blurred {
   filter: blur(12px);
@@ -107,4 +107,3 @@
   font-weight: 600;
   color: var(--text-h);
 }
-*/
